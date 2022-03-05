@@ -1,0 +1,5 @@
+package com.AppViagem.AppViagem.repository;
+
+public interface ViagemRepository {
+
+}
